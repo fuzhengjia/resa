@@ -8,7 +8,6 @@ import backtype.storm.utils.NimbusClient;
 import backtype.storm.utils.Utils;
 import resa.optimize.AggResultCalculator;
 import resa.optimize.AllocCalculator;
-import resa.optimize.GeneralAllocCalculator;
 import resa.optimize.TestGeneralAllocCalculator;
 import resa.util.ResaConfig;
 import resa.util.TopologyHelper;
